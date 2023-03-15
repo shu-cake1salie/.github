@@ -1,6 +1,6 @@
 # Cake1salie
 
-(｡･∀･)ﾉﾞ嗨，你发现了Cake1salie
+(｡･∀･)ﾉﾞ嗨，你发现了 Cake1salie
 
 ## 关于我们
 
