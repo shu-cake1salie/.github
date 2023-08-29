@@ -12,6 +12,10 @@
 - CISCN 2022 华东北赛区 三等奖
 - 2023 全国教育系统网络安全演习
 
+## 提供服务
+
+我们正在组织整理上海大学网络空间安全专业指南 [SHU Cyberspace Security 101](https://shu-cake1salie.github.io/SHU-Cyberspace-Security-101/)，欢迎参与到项目中！
+
 ## 加入我们
 
 - QQ 群：666428131
